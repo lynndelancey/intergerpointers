@@ -1,4 +1,5 @@
 #Integer Pointers in C++
+
 Overview
 This repository contains a simple C++ program demonstrating dynamic memory allocation using pointers. The program prompts the user to enter three integer values, stores them in variables, and dynamically allocates memory for each value using pointers. It then displays both the stored values and the dereferenced pointer values before properly deallocating memory.
 
